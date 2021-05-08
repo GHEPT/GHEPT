@@ -1,22 +1,9 @@
-# Hi there 🤙
+### Hi there 👋, Eduardo Teodoro
+#### Future Develop Full Stack
+![Future Develop Full Stack](https://www.canva.com/design/DAEd7QM3-gk/OytiDey7ENSqR2Pi5q60wA/edit)
 
-I'm Eduardo from Brazil 🇧🇷 and I'm very excited to enter the wonderful world of technology with Blue EdTech.
-You can check out me at LinkedIn: linkedin.com/epteodoro.
+I'm Eduardo, from Brazil 🇧🇷 and I'm very excited to enter the wonderful world of technology with Blue EdTech. Currently learning Python and studying hard to be the next tech talent.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHEPT)](https://github.com/anuraghazra/github-readme-stats)
+Skills: Python
 
-
-<!--
-**GHEPT/GHEPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
