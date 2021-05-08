@@ -1,4 +1,10 @@
-# Eduardo Teodoro
+# Hi there 🤙
+
+I'm Eduardo from Brazil 🇧🇷 and I'm very excited to enter the wonderful world of technology with Blue EdTech.
+You can check out me at LinkedIn linkedin.com/epteodoro.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHEPT)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **GHEPT/GHEPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
