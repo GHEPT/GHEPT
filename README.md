@@ -1,6 +1,6 @@
 ### Hi there 👋, Eduardo Teodoro
 #### Future Develop Full Stack
-![Future Develop Full Stack](https://scontent.fcgh36-1.fna.fbcdn.net/v/t1.6435-9/s960x960/184338961_4147255198660108_1464095277390158377_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=e3f864&_nc_ohc=AqrN8U_bv4AAX-F7dpD&_nc_ht=scontent.fcgh36-1.fna&tp=7&oh=0760ab7dd4e75ad79ac03d5ce52bb815&oe=60BC4D40)
+![Future Develop Full Stack](https://github.com/GHEPT/GHEPT/blob/main/Red%20Profile%20Cover%20Photo(4).png)
 
 I'm Eduardo, from Brazil 🇧🇷 and I'm very excited to enter the wonderful world of technology with Blue EdTech. Currently learning Python and studying hard to be the next tech talent.
 
