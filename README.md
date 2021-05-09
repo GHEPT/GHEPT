@@ -9,6 +9,7 @@ I'm Eduardo, from Brazil 🇧🇷 and I'm very excited to enter the wonderful wo
 * 🐍 Software Development
 
 ## How I made my readme profile
+[![](http://img.youtube.com/vi/KhGWbt1dAKQ/0.jpg)](http://www.youtube.com/watch?v=KhGWbt1dAKQ "")
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GHEPT)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/GHEPT)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/epteodoro/)  
 
