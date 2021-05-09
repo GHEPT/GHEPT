@@ -13,6 +13,6 @@ I'm Eduardo, from Brazil 🇧🇷 and I'm very excited to enter the wonderful wo
 ## How I made my readme profile
 [![](http://img.youtube.com/vi/KhGWbt1dAKQ/0.jpg)](http://www.youtube.com/watch?v=KhGWbt1dAKQ "")
 
-![GitHub Activity Graph] (https://activity-graph.herokuapp.com/graph?username=GHEPT)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GHEPT)  
  
 
