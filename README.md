@@ -1,5 +1,3 @@
-![Future Develop Full Stack](https://github.com/GHEPT/GHEPT/blob/main/Red%20Profile%20Cover%20Photo(4).png)
-
 # Eduardo Teodoro
 I'm Eduardo, from Brazil 🇧🇷 and I'm very excited to enter the wonderful world of technology with Blue EdTech. Currently learning Python and studying hard to be the next tech talent.
 
