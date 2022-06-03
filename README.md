@@ -1,16 +1,29 @@
-# Eduardo Teodoro
-I'm Eduardo, from Brazil 🇧🇷 and I'm very excited to enter the wonderful world of technology with Blue EdTech. Currently learning Python and studying hard to be the next tech talent.
+### Olá! Eu sou o Eduardo Teodoro 👋
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GHEPT)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/GHEPT)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/epteodoro/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/epteodoro/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/GHEPT)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/epteodoro)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
-## Career Interest
-* 💙 BackEnd
-* 📈 Data Science
-* 🐍 Software Development
 
-## How I made my readme profile
-[![](http://img.youtube.com/vi/KhGWbt1dAKQ/0.jpg)](http://www.youtube.com/watch?v=KhGWbt1dAKQ "")
+![EduardoTeodoro GitHub stats](https://github-readme-stats.vercel.app/api?username=GHEPT&show_icons=true&theme=synthwave)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GHEPT)  
- 
+## Tecnologias que eu uso no meu dia a dia
+<div style="display: inline_block"><br/>
+ <img alignm="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+ <img alignm="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+ <img alignm="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img alignm="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+ <img alignm="center" alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
+ <img alignm="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+ <img alignm="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+ <img alignm="center" alt="intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+ <img alignm="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+ <img alignm="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+ <img alignm="center" alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+ <img alignm="center" alt="bitbucket" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" />
+</div><br>
 
+Extremamente feliz e empolgado por fazer parte desse mundo da tecnologia!
+
+![Snake animation](https://github.com/GHEPT/GHEPT/blob/output/github-contribution-grid-snake.svg)
