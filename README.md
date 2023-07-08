@@ -1,4 +1,4 @@
-### Olá! Eu sou o Eduardo Teodoro 👋
+# Olá! Eu sou o Eduardo Teodoro 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/epteodoro/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/GHEPT)
@@ -8,22 +8,36 @@
 
 ![EduardoTeodoro GitHub stats](https://github-readme-stats.vercel.app/api?username=GHEPT&show_icons=true&theme=synthwave)
 
-## Tecnologias que eu uso no meu dia a dia
-<div style="display: inline_block"><br/>
- <img alignm="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
- <img alignm="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
- <img alignm="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
- <img alignm="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
- <img alignm="center" alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
- <img alignm="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
- <img alignm="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
- <img alignm="center" alt="intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
- <img alignm="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
- <img alignm="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
- <img alignm="center" alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
- <img alignm="center" alt="bitbucket" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" />
-</div><br>
+## Tech Stack
 
-Extremamente feliz e empolgado por fazer parte desse mundo da tecnologia!
+### Banco de Dados
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9.6%2B-blue)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-5.7%2B-blue)](https://www.mysql.com/)
+[![MariaDB](https://img.shields.io/badge/MariaDB-10.2%2B-blue)](https://mariadb.org/)
+[![Hibernate](https://img.shields.io/badge/Hibernate-5.4%2B-blue)](https://hibernate.org/)
+
+### Back End
+[![Java](https://img.shields.io/badge/Java-8%2B-orange)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5%2B-green)](https://spring.io/projects/spring-boot)
+[![Workbench](https://img.shields.io/badge/Workbench-8.0%2B-lightgrey)](https://www.mysql.com/products/workbench/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-latest-yellow)](https://www.jenkins.io/)
+[![Git](https://img.shields.io/badge/Git-latest-black)](https://git-scm.com/)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-latest-blue)](https://bitbucket.org/)
+[![Postman](https://img.shields.io/badge/Postman-latest-orange)](https://www.postman.com/)
+
+### Scrum
+[![Jira Software](https://img.shields.io/badge/Jira%20Software-latest-blue)](https://www.atlassian.com/software/jira)
+
+### IDE
+[![IntelliJ](https://img.shields.io/badge/IntelliJ-latest-red)](https://www.jetbrains.com/idea/)
+[![Eclipse](https://img.shields.io/badge/Eclipse-latest-blue)](https://www.eclipse.org/)
+
+### Sistema Operacional
+[![Windows](https://img.shields.io/badge/Windows-latest-blue)](https://www.microsoft.com/windows)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-latest-orange)](https://ubuntu.com/)
+
+
+
+## Feliz por fazer parte desse mundo da tecnologia!
 
 ![Snake animation](https://github.com/GHEPT/GHEPT/blob/output/github-contribution-grid-snake.svg)
