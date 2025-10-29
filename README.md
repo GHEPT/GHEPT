@@ -17,7 +17,7 @@ Sou também um entusiasta da **automação** de processos com **N8N** para criar
     <img src="https://github-readme-stats.vercel.app/api?username=GHEPT&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="EduardoTeodoro GitHub stats"/>
     <!-- Linguagens Mais Usadas -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHEPT&layout=compact&theme=synthwave&hide_border=true" alt="Linguagens mais usadas por Eduardo Teodoro"/>
-    <!-- Sequência de Contribuições (Streak Stats) - LINK CORRETO -->
+    <!-- Sequência de Contribuições (Streak Stats) -->
     <img src="https://streak-stats.demolab.com/?user=GHEPT&theme=synthwave&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
@@ -35,6 +35,11 @@ Aqui estão as principais tecnologias, plataformas e metodologias em que atuo, r
 *   **Groovy:** Intervenções rápidas em código de produção via script Groovy no HAC (Hybris Administration Console), sem necessidade de deploy.
 *   **N8N:** Automação de fluxos de trabalho, orquestração de tarefas e integrações complexas entre diversas plataformas.
 *   **Micro SaaS:** Desenvolvimento e implantação de soluções SaaS compactas e eficientes para problemas específicos.
+
+### 📝 Linguagens de Programação
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)](https://groovy-lang.org/)
+
 
 ### ⚙️ Arquitetura & Integração
 *   **Microserviços:** Arquitetura orientada a serviços, decomposição de monólitos e construção de sistemas distribuídos.
@@ -60,13 +65,13 @@ Aqui estão as principais tecnologias, plataformas e metodologias em que atuo, r
 *   **Logging & Monitoring:** Monitoramento de aplicações e infraestrutura com ferramentas como Kibana e Dynatrace para detecção proativa de problemas.
 *   **JIRA, Confluence:** Gestão de projetos, acompanhamento de tarefas e documentação técnica.
 
-### ��️ Banco de Dados (Badges)
+### 🗄️ Banco de Dados (Badges)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9.6%2B-blue)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-5.7%2B-blue)](https://www.mysql.com/)
 [![MariaDB](https://img.shields.io/badge/MariaDB-10.2%2B-blue)](https://mariadb.org/)
 <!-- Adicionar badge Oracle se desejar, ex: [![Oracle](https://img.shields.io/badge/Oracle-Database-red)](https://www.oracle.com/database/) -->
 
-### 🛠️ Ferramentas & DevOps (Badges)
+### ��️ Ferramentas & DevOps (Badges)
 [![Git](https://img.shields.io/badge/Git-latest-black)](https://git-scm.com/)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-latest-blue)](https://bitbucket.org/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-latest-yellow)](https://www.jenkins.io/)
@@ -91,18 +96,6 @@ Aqui estão as principais tecnologias, plataformas e metodologias em que atuo, r
 
 ---
 
-## 🐍 Minha Atividade Recente no GitHub
-
-<p align="center">
-    <img src="https://github.com/GHEPT/GHEPT/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Animação da contribuição no GitHub"/>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GHEPT&theme=dracula" alt="Gráfico de Atividade Recente"/>
-</p>
-
----
-
 ## 🤝 Conecte-se Comigo!
 
 Estou sempre aberto a novas conexões, colaborações e oportunidades. Sinta-se à vontade para entrar em contato:
@@ -114,4 +107,4 @@ Estou sempre aberto a novas conexões, colaborações e oportunidades. Sinta-se 
 
 ---
 
-## ✨ Feliz por fazer parte desse mundo da tecnologia!
+## ✨ Bora codar!
