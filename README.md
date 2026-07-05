@@ -17,7 +17,7 @@ Structured Content
    YAML Input
        │
        ▼
- Schema Validation
+   Typed Loaders
        │
        ▼
   Profile Engine
@@ -37,6 +37,6 @@ The profile above is not a static design asset.
 
 Its content, visual sections and composition are generated from structured data and code through a deterministic rendering pipeline.
 
-**Built with TypeScript, YAML, schema validation and programmatic SVG generation.**
+**Built with TypeScript, structured YAML content and programmatic SVG generation.**
 
 [Explore the Profile Engine repository](https://github.com/GHEPT/profile-engine)
