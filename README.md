@@ -1,6 +1,6 @@
 <p align="center">
     <img
-        src="./assets/generated/profile-v1.svg"
+        src="./assets/generated/profile-v2.svg"
         alt="Eduardo Teodoro"
         width="100%"
     />
@@ -74,9 +74,9 @@ The technologies below represent the tools I use most frequently when building p
 
 ![Clean Code](https://img.shields.io/badge/Clean_Code--2d333b?style=flat&logo=clean+code) ![DDD](https://img.shields.io/badge/DDD--2d333b?style=flat&logo=ddd) ![SOLID](https://img.shields.io/badge/SOLID--2d333b?style=flat&logo=solid)
 
-## Professional Journey
+## My Journey / Purpose
 
-Key milestones
+From business to technology. From knowledge to impact.
 
 <p align="center">
 
@@ -84,41 +84,39 @@ Key milestones
 
 </p>
 
-### 2021 · SAP Commerce Backend Developer
+### 2003 – 2015 · 1. Administration
 
-**Claro Brasil**
+**Foundation**
 
-Working on backend solutions using SAP Commerce Cloud.
+My foundation. Understanding business, people and processes.
 
-**Highlights**
 
-- Java
-- SAP Commerce
-- Spring
+### 2016 · 2. The Turning Point
 
-### 2024 · Founder
+**Transition**
 
-**Teo Logic**
+I discovered development and everything changed.
 
-Building products focused on operational clarity.
 
-**Highlights**
+### 2017 – 2020 · 3. Deep Dive
 
-- Architecture
-- Automation
-- TypeScript
+**Technology**
 
-### 2026 · Profile Engine
+Immersion in code, systems and challenges. Learning, building and delivering.
 
-**Open Source**
 
-Developing a static engine that generates beautiful GitHub profile READMEs.
+### 2021 – 2023 · 4. Growth & Building
 
-**Highlights**
+**Architecture**
 
-- Markdown
-- SVG
-- Developer Experience
+Leading projects, architecting solutions and turning ideas into real products.
+
+
+### 2024+ · 5. Impact
+
+**Purpose**
+
+Building solutions that generate clarity, automate, scale and transform.
 
 ## GitHub
 
