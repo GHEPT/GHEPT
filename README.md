@@ -1,51 +1,10 @@
-# Eduardo Teodoro
-
-### Software Engineer | SAP Commerce Cloud | Backend Java
-
-Building software with clarity.
-
 <p align="center">
-
-<img
-    src="./assets/generated/hero.svg"
-    alt="Eduardo Teodoro"
-    width="100%"
-/>
-
+    <img
+        src="./assets/generated/hero.svg"
+        alt="Eduardo Teodoro"
+        width="100%"
+    />
 </p>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🚀 Currently
-
-- SAP Commerce Cloud
-- Java
-- TypeScript
-- GitHub Profile Engine
-
-</td>
-
-<td width="50%">
-
-### 💡 Building
-
-Profile Engine v2
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-> Clarity creates better software.
 
 ## About Me
 
