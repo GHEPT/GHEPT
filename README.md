@@ -1,15 +1,7 @@
 <p align="center">
     <img
-        src="./assets/generated/hero-v2.svg"
+        src="./assets/generated/profile-v1.svg"
         alt="Eduardo Teodoro"
-        width="100%"
-    />
-</p>
-
-<p align="center">
-    <img
-        src="./assets/generated/about-v1.svg"
-        alt="Why I Build"
         width="100%"
     />
 </p>
