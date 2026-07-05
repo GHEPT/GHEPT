@@ -1,48 +1,18 @@
 <p align="center">
     <img
-        src="./assets/generated/hero-v2.svg"
+        src="./assets/generated/hero.svg"
         alt="Eduardo Teodoro"
         width="100%"
     />
 </p>
 
-## About Me
-
-Passionate about software architecture, backend engineering, automation and building maintainable systems.
-
-
-- I enjoy solving complex technical problems.
-- I design systems focused on simplicity and maintainability.
-- I like creating reusable software.
-
-### Technical Expertise
-
-#### Languages
-
-- Java
-- TypeScript
-- SQL
-
-#### Backend
-
-- Spring
-- SAP Commerce
-- REST APIs
-
-#### Data
-
-- MySQL
-- PostgreSQL
-
-#### Practices
-
-- Clean Code
-- DDD
-- SOLID
-
-### Building
-
-Profile Engine v2
+<p align="center">
+    <img
+        src="./assets/generated/about-v1.svg"
+        alt="Why I Build"
+        width="100%"
+    />
+</p>
 
 ## Featured Projects
 
