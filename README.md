@@ -1,6 +1,6 @@
 <p align="center">
     <img
-        src="./assets/generated/profile-v2.svg"
+        src="./assets/generated/profile-v3.svg"
         alt="Eduardo Teodoro"
         width="100%"
     />
