@@ -1,6 +1,6 @@
 <p align="center">
     <img
-        src="./assets/generated/profile-v3.svg"
+        src="./assets/generated/profile-v4.svg"
         alt="Eduardo Teodoro — Software Engineer, Founder and Operational Intelligence"
         width="100%"
     />
